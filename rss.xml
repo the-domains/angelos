@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Angelos]]></title>
         <description><![CDATA[Angelos]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/angelos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 16:43:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Apr 2016 17:04:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/angelos/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[QiGong | Apricot Forest Hellas]]></title>
+            <description><![CDATA[<article><h1>QiGong | Apricot Forest Hellas</h1><p>Με μεγάλο περιθώριο η πιο διαδεδομένη και κοινώς εξασκούμενη από τις δύο παραπάνω περιπτώσεις είναι η πρώτη. Την δεκαετία του 1980 στην Κίνα ολόκληρα νοσοκομεία ήταν αφοσιωμένα στο να βοηθούν ανθρώπους σε τελικά στάδια ανίατων ασθενειών προετοιμάζοντας ατομικές ρουτίνες πρακτικών QiGong.</p></article>]]></description>
+            <link>http://www.apricotforest.gr/qigong/</link>
+            <guid isPermaLink="false">962394d2-ae32-4387-8eb4-10a8629f8d13</guid>
+            <pubDate>Sun, 24 Apr 2016 17:03:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d02a32b6-8813-44c4-9359-130504ec38fc.jpg">]]></description>
-            <link>undefinedapricot-forest-hellas/index.html</link>
+            <link>https://thegrid.ai/angelos/apricot-forest-hellas/index.html</link>
             <guid isPermaLink="false">2ebfeec5-8fd8-4714-a2c0-fd26271c7b0a</guid>
             <pubDate>Sun, 24 Apr 2016 16:43:16 GMT</pubDate>
         </item>
