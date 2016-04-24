@@ -1,7 +1,7 @@
 name: Angelos
 favicon: null
-layout_spectrum: 0.6868628892116249
-typography_spectrum: 0.0776806203648448
+layout_spectrum: 0.91203
+typography_spectrum: 0.5845
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ecebe9'
-    - '#030303'
-    - '#ae9d8f'
-    - '#bf2d50'
-    - '#49becf'
+    - '#000000'
+    - '#b8a79d'
+    - '#d8c9b8'
+    - '#645c57'
+    - '#2a2529'
   brandStrength: 0.75
-  lightness: 0.25
-  saturation: 0.6875
+  lightness: 0.5
+  saturation: 0.375
   rhythmicContrast: 0.25
 purpose: []
